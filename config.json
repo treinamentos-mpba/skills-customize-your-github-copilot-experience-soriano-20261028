@@ -65,6 +65,20 @@
       "description": "Build a book catalog REST API with FastAPI, covering routes, CRUD operations, validation, and HTTP status codes.",
       "path": "assignments/building-rest-apis-with-fastapi",
       "dueDate": "2026-11-04"
+    },
+    {
+      "id": "sqlite-persistence-for-fastapi",
+      "title": "Persistência com SQLite em uma API FastAPI",
+      "description": "Expanda a API de catálogo de livros com armazenamento SQLite, busca, validação e testes.",
+      "path": "assignments/sqlite-persistence-for-fastapi",
+      "dueDate": "2026-11-04"
+    },
+    {
+      "id": "python-lists-and-dictionaries",
+      "title": "Lists and Dictionaries in Python",
+      "description": "Organize and search collections using Python lists and dictionaries, then combine them in a small book catalog.",
+      "path": "assignments/python-lists-and-dictionaries",
+      "dueDate": "2026-11-04"
     }
   ]
 }
